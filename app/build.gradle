@@ -9,6 +9,8 @@ repositories {
 }
 
 dependencies {
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.5'
+
     testImplementation 'junit:junit:4.+'
     testImplementation 'io.rest-assured:rest-assured:4.4.0'
 }
