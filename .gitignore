@@ -7,3 +7,8 @@ build
 .vscode
 .idea
 */*.class
+.project
+app/.project
+app/.classpath
+app/.settings
+app/bin/*
